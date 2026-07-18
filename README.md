@@ -18,3 +18,4 @@ Write Your Message: Open message.txt and type your complete email body. Feel fre
 Start Sending: Run the bot again using the same command:
 py emailsender.py
 Quick File Attachment (Drag & Drop): When the bot asks if you want to attach a file, type yes or y. Then, simply drag your file from your desktop and drop it directly into the terminal window. The bot will automatically capture the exact file path and attach your document (e.g., CV, PDF, or portfolio) instantly!
+**Important Security Note:** Never commit your actual email password or Google App Password to GitHub. Always keep your credentials safe and remove them before pushing your code to a public repository
